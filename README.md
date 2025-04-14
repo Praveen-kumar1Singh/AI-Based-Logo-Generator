@@ -50,7 +50,7 @@ An **AI-powered logo generator** that uses cutting-edge tools to create beautifu
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/ai-logo-generator.git
-cd ai-logo-generator
+git clone [https://github.com/Praveen-kumar1Singh/AI-Based-Logo-Generator.git](https://github.com/Praveen-kumar1Singh/AI-Based-Logo-Generator)
+cd AI-Based-Logo-Generator
 npm install
 npm run dev
