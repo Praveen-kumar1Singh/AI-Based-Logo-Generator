@@ -10,25 +10,25 @@ import {
 
 const contributors = [
   {
-    name: "Praveen Kumar Singh",
+    name: "Praveen Singh",
     github: "https://github.com/Praveen-kumar1Singh",
     linkedin: "https://www.linkedin.com/in/praveenkumarsingh39",
-    instagram: "https://instagram.com/praveenksingh",
+    // instagram: "https://instagram.com/praveenksingh",
   },
   {
     name: "Anubhuti",
-    github: "https://github.com/anubhuti123",
-    linkedin: "https://www.linkedin.com/in/anubhuti123",
+    github: "http://www.linkedin.com/in/anubhuti-chandra-46097530a",
+    linkedin: "https://github.com/anubhuti02",
   },
   {
     name: "Komal",
-    github: "https://github.com/komal456",
-    linkedin: "https://www.linkedin.com/in/komal456",
+    github: "https://github.com/Komal25252",
+    linkedin: "http://www.linkedin.com/in/komal-mishra-6a6388262",
   },
   {
     name: "Tushar",
-    github: "https://github.com/tushar789",
-    linkedin: "https://www.linkedin.com/in/tushar789",
+    github: "https://github.com/Tushar-Anand-01",
+    linkedin: "https://www.linkedin.com/in/tushar-anand-33205a252/",
   },
 ];
 
@@ -63,7 +63,7 @@ const Footer = () => {
                 >
                   <FaLinkedin />
                 </a>
-                {person.instagram && (
+{/*                 {person.instagram && (
                   <a
                     href={person.instagram}
                     target="_blank"
@@ -73,7 +73,7 @@ const Footer = () => {
                   >
                     <FaInstagram />
                   </a>
-                )}
+                )} */}
               </div>
             </li>
           ))}
